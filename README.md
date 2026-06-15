@@ -1,4 +1,4 @@
-#🚀 Project Report: Blinkit Sales & Outlet Analysis Dashboard
+#Project Report: Blinkit Sales & Outlet Analysis Dashboard
 
 I recently designed an interactive Power BI dashboard to analyze Blinkit’s retail performance across outlets, items, and customer ratings.
 
@@ -21,6 +21,9 @@ This dashboard provides a clear view of sales distribution, outlet performance, 
 
 💡 Learning Outcome:  
 Strengthened skills in data cleaning, modeling, DAX, and visualization while applying analytics to real-world retail scenarios.
+
+Dashboard sanp
+
 <img width="2280" height="1272" alt="Screenshot 2026-05-13 093741" src="https://github.com/user-attachments/assets/63e5da26-58df-4957-8252-c4f74dcb0c13" />
 <img width="2280" height="1276" alt="Screenshot 2026-05-13 093659" src="https://github.com/user-attachments/assets/62cf9f90-0614-46e7-8a39-f602414e184f" />
 <img width="2276" height="1278" alt="Screenshot 2026-05-13 093610" src="https://github.com/user-attachments/assets/9e326dfa-169d-4217-bcad-aae33e3f31a2" />
